@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be1d6b56-6449-4afc-a5bd-43bb1f37abd4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EjemplosSet/EjemplosSet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EjemplosSet/src/EjemplosSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HerenciaVehiculos/HerenciaVehiculos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HerenciaVehiculos/src/Avion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HerenciaVehiculos/src/Barco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HerenciaVehiculos/src/Bicicleta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HerenciaVehiculos/src/Coche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HerenciaVehiculos/src/VehiculoTransporte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PilasColas/PilasColas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PilasColas/src/Cola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PilasColas/src/Colas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PilasColas/src/Pila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PilasColas/src/Pilas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RepasoExamen3Ev.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ACCEjercicio1/Ejemplar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ACCEjercicio1/Libro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ACCEjercicio1/Musica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ACCEjercicio1/Pelicula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2gmXuXq2xOpr85eOpZMuV14ZeUg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "corretto-1.8",
+    "onboarding.tips.debug.path": "C:/Users/frasq/IdeaProjects/RepasoExamen3Ev/EjemplosSet/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\frasq\IdeaProjects\RepasoExamen3Ev\PilasColas\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be1d6b56-6449-4afc-a5bd-43bb1f37abd4" name="Changes" comment="" />
+      <created>1716303949845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716303949845</updated>
+    </task>
+    <servers />
+  </component>
+</project>
